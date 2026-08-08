@@ -178,13 +178,7 @@ Fast Wave evaluates the normalized position-space eigenfunctions of a quantum ha
 
 For a Fock state $n$,
 
-$$
-\psi_n(x)
-=
-\frac{1}{\pi^{1/4}\sqrt{2^n n!}}
-H_n(x)e^{-x^2/2},
-\qquad n\in\mathbb{N}_0,
-$$
+$$ \psi_n(x) = \frac{1}{\pi^{1/4}\sqrt{2^n n!}} H_n(x)e^{-x^2/2},\qquad n\in\mathbb{N}_0,$$
 
 where $H_n(x)$ is the Hermite polynomial of degree $n$.
 
